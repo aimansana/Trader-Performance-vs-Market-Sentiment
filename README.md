@@ -38,25 +38,34 @@ The project uses two datasets:
 
 ## Visualisations
 
-### Trading Activity and Market Sentiment
-(trading_activity.png)
-<!-- Add visualisation here -->
+### 1. Trading Activity and Market Sentiment
 
-### Profitability Analysis
+![Trading Activity](trading_activity.png)
+
+### 2. Profitability Analysis
+
 ![Profitability Analysis](profitability.png)
-<!-- Add visualisation here -->
 
-### Sentiment-Based Comparisons
-![Trading Activity](images/trading_activity.png)
-<!-- Add visualisation here -->
+### 3. Sentiment-Based Comparisons
 
-### Additional Analysis
+![Sentiment Deviation](sentiment_deviation.png)
+
+![Sentiment Bucket Analysis](sentiment_bucket.png)
+
+### 4. Long vs Short Analysis
+
+![Long vs Short Analysis](longShort.png)
 
 <!-- Add visualisation here -->
 
 ## Key Findings
 
-<!-- Add your key findings and observations here after finalising the analysis. -->
+- Open long positions accounted for approximately 55.66% of positions, compared to 44.34% for open short positions, indicating a higher proportion of long positions.
+- The overall long-to-short ratio was approximately 1.26, suggesting more long positions than short positions.
+- Trading activity and the number of participating accounts varied considerably across different market sentiment categories.
+- PnL and trading activity deviations revealed differences in trader performance and activity across sentiment buckets.
+- Profitability metrics showed variations across sentiment levels, highlighting the relationship between market sentiment and trading outcomes.
+
 
 ## Tools & Technologies
 
