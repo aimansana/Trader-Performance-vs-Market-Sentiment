@@ -39,15 +39,15 @@ The project uses two datasets:
 ## Visualisations
 
 ### Trading Activity and Market Sentiment
-
+![Trading Activity](trading_activity.png)
 <!-- Add visualisation here -->
 
 ### Profitability Analysis
-
+![Profitability Analysis](profitability.png)
 <!-- Add visualisation here -->
 
 ### Sentiment-Based Comparisons
-
+![Trading Activity](images/trading_activity.png)
 <!-- Add visualisation here -->
 
 ### Additional Analysis
